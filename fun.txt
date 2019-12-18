@@ -1,2 +1,6 @@
 work in master
+<<<<<<< Updated upstream
 kill bug by waglong
+=======
+fun adding
+>>>>>>> Stashed changes
