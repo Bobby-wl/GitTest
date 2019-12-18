@@ -1,6 +1,9 @@
 work in master
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 kill bug by waglong
 =======
 fun adding
 >>>>>>> Stashed changes
+=======
+>>>>>>> 1dc6f88... master->init fun
